@@ -1,0 +1,149 @@
+# 布布追剧
+45.150.167.76  c453sddsc451azx.top
+
+# 厂长资源
+172.83.153.206  4kcz.com
+
+# LD论坛
+172.66.166.61  linux.do
+172.66.166.61  connect.linux.do
+
+# 吾爱破解blog
+124.232.185.97  52pojie.cn
+
+# 不忘初心blog
+8.223.47.211 pc528.net
+
+# winos-blog
+124.156.141.225 winos.me
+
+# 懒得勤快blog
+172.67.183.74 masuit.net
+
+# 爱壹帆TV
+104.18.33.60  yfsp.tv
+172.64.154.69 iyf.tv
+
+# 天龙影院
+156.238.249.39  82mao.com
+
+# 爱看机器人
+104.21.93.9  v.ikanbot.com
+
+# AGE动漫
+23.225.30.102  agedm.vip
+23.225.30.102 agedm.org
+
+# 油猴脚本
+172.67.164.117  greasyfork.org
+104.21.32.1  sleazyfork.org
+
+# wallhaven高清壁纸
+104.26.11.35  wallhaven.cc
+
+# 哲风壁纸
+110.42.51.228  haowallpaper.com
+
+# 科学上网工具箱
+104.21.13.141 v2rayse.com
+
+# 全球小鸡监控平台
+104.218.235.243 ping0.cc
+
+#色情网站 
+185.88.181.9 xvideos.com
+66.254.114.41 pornhub.com
+104.26.2.41 91porn.com
+
+# 98色堂花
+104.26.4.58 sehuatang.org
+
+# SOGO論壇
+104.26.12.68 oursogo.com
+
+# 伊莉社區
+172.241.24.65 eyny.com
+
+# 雨滴社区
+104.21.46.211 bbs.rainmeter.cn
+
+# DigitalPlat 免费域名
+172.66.174.4 dash.domain.digitalplat.org
+
+# 谷歌翻译
+142.251.183.90 translate.googleapis.com
+142.251.183.90 translate.google.com
+142.251.183.90 translate-pa.googleapis.com
+
+142.250.0.107 translate.googleapis.com
+142.250.0.107 translate.google.com
+142.250.0.107 translate-pa.googleapis.com
+
+142.250.99.90 translate.googleapis.com
+142.250.99.90 translate.google.com
+142.250.99.90 translate-pa.googleapis.com
+
+142.250.107.90 translate.googleapis.com
+142.250.107.90 translate.google.com
+142.250.107.90 translate-pa.googleapis.com
+
+172.253.0.3 translate.googleapis.com
+172.253.0.3 translate.google.com
+172.253.0.3 translate-pa.googleapis.com
+
+# 迅雷
+127.0.0.1   hub5btmain.sandai.net
+127.0.0.1   hub5emu.sandai.net
+127.0.0.1   upgrade.xl9.xunlei.com
+0.0.0.0  stat.xunlei.com 
+0.0.0.0  vip.xunlei.com 
+0.0.0.0  youxi.xunlei.com 
+0.0.0.0  88cdn.com 
+0.0.0.0  act.niu.xunlei.com 
+0.0.0.0  act-youxi.xunlei.com 
+0.0.0.0  activity.xunlei.com 
+0.0.0.0  ad.sandai.net 
+0.0.0.0  ad.xunlei.com 
+0.0.0.0  ad.xl12.xunlei.com 
+0.0.0.0  admin.static.xl9.xunlei.com 
+0.0.0.0  advstat.xunlei.com 
+0.0.0.0  adsp.xunlei.com 
+0.0.0.0  advertpay.vip.xunlei.com 
+0.0.0.0  advertpay-vip-ssl.xunlei.com  
+0.0.0.0  advert-statistic-vip.xunlei.com 
+0.0.0.0  api-shoulei-ssl.xunlei.com 
+0.0.0.0  api-xl9-ssl.xunlei.com 
+0.0.0.0  analysis-acc-ssl.xunlei.com  
+0.0.0.0  biz5.sandai.net 
+0.0.0.0  cdn.xunlei.com 
+0.0.0.0  dl.xunlei.com 
+0.0.0.0  dm.xiazaibao.xunlei.com 
+0.0.0.0  download.51xunlei.com 
+0.0.0.0  etl-xlmc-ssl.xunlei.com 
+0.0.0.0  hd.xunlei.com 
+0.0.0.0  home.xunlei.com 
+0.0.0.0  home.xl9.xunlei.com 
+0.0.0.0  hub5btmain.sandai.net 
+0.0.0.0  hub5emu.sandai.net 
+0.0.0.0  liveupdate.xl12.xunlei.com 
+0.0.0.0  im.xunlei.com 
+0.0.0.0  login.xunlei.com 
+0.0.0.0  mcfg.sandai.net 
+0.0.0.0  mpv.sandai.net 
+0.0.0.0  plugin.xl7.xunlei.com 
+0.0.0.0  pubstat.sandai.net 
+0.0.0.0  search.daquan.xunlei.com 
+0.0.0.0  sentry-youxi.xunlei.com 
+0.0.0.0  soa-vip-ssl.xunlei.com 
+0.0.0.0  ssoa.vip.xunlei.com 
+0.0.0.0  srv.xunlei.com 
+0.0.0.0  static.sandai.net 
+0.0.0.0  static.xbase.cloud 
+0.0.0.0  sentry.xunlei.com 
+0.0.0.0  server1.adpolestar.net 
+0.0.0.0  thunderx.rcv.sandai.net 
+0.0.0.0  tms.sandai.net 
+0.0.0.0  update.xunlei.com 
+0.0.0.0  upgrade.xl9.xunlei.com 
+0.0.0.0  xlcache.com 
+0.0.0.0  zl.xunlei.com 
