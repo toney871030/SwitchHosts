@@ -1,9 +1,6 @@
 # 布布追剧
 45.150.167.76  c453sddsc451azx.top
 
-# 厂长资源
-172.83.153.206  4kcz.com
-
 # LD论坛
 172.66.166.61  linux.do
 172.66.166.61  connect.linux.do
@@ -29,10 +26,6 @@
 
 # 爱看机器人
 104.21.93.9  v.ikanbot.com
-
-# AGE动漫
-23.225.30.102  agedm.vip
-23.225.30.102 agedm.org
 
 # 油猴脚本
 172.67.164.117  greasyfork.org
