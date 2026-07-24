@@ -26,6 +26,7 @@
 
 # 爱看机器人
 104.21.93.9  v.ikanbot.com
+104.21.7.38  www1.aikanbot.com
 
 # 油猴脚本
 172.67.164.117  greasyfork.org
@@ -64,22 +65,6 @@
 172.66.174.4 dash.domain.digitalplat.org
 
 # 谷歌翻译
-142.251.183.90 translate.googleapis.com
-142.251.183.90 translate.google.com
-142.251.183.90 translate-pa.googleapis.com
-
-142.250.0.107 translate.googleapis.com
-142.250.0.107 translate.google.com
-142.250.0.107 translate-pa.googleapis.com
-
-142.250.99.90 translate.googleapis.com
-142.250.99.90 translate.google.com
-142.250.99.90 translate-pa.googleapis.com
-
-142.250.107.90 translate.googleapis.com
-142.250.107.90 translate.google.com
-142.250.107.90 translate-pa.googleapis.com
-
 172.253.0.3 translate.googleapis.com
 172.253.0.3 translate.google.com
 172.253.0.3 translate-pa.googleapis.com
