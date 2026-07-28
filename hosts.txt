@@ -35,9 +35,6 @@
 # wallhaven高清壁纸
 104.26.11.35  wallhaven.cc
 
-# 哲风壁纸
-110.42.51.228  haowallpaper.com
-
 # 科学上网工具箱
 104.21.13.141 v2rayse.com
 
