@@ -33,8 +33,9 @@
 156.238.249.39  82mao.com
 
 # 爱看机器人
-104.21.93.9  v.ikanbot.com
 104.21.7.38  www1.aikanbot.com
+2606:4700:3031::ac43:87b4  www1.aikanbot.com
+2606:4700:3035::6815:726  www1.aikanbot.com
 
 # 油猴脚本
 172.67.164.117  greasyfork.org
