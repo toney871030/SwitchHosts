@@ -19,3 +19,7 @@
 104.26.3.41 91porn.com
 
 104.26.8.40 ppp.porn
+
+# 98色堂花
+104.26.5.58 sehuatang.org
+2606:4700:20::681a:53a sehuatang.org
