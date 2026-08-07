@@ -47,12 +47,12 @@
 104.218.235.243 ping0.cc
 
 #色情网站 
-185.88.181.9 xvideos.com
+89.222.127.10 xvideos.com
 66.254.114.41 pornhub.com
-104.26.2.41 91porn.com
 
 # 98色堂花
-104.26.4.58 sehuatang.org
+104.26.5.58 sehuatang.org
+2606:4700:20::681a:53a sehuatang.org
 
 # SOGO論壇
 104.26.12.68 oursogo.com
@@ -62,9 +62,6 @@
 
 # 雨滴社区
 104.21.46.211 bbs.rainmeter.cn
-
-# DigitalPlat 免费域名
-172.66.174.4 dash.domain.digitalplat.org
 
 # 谷歌翻译
 172.253.0.3 translate.googleapis.com
