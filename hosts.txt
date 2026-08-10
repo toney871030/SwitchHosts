@@ -1,25 +1,25 @@
 # 百度
-124.237.177.164:80 baidu.com
-14.215.182.28:80 tieba.baidu.com
+124.237.177.164:443 baidu.com
+14.215.182.28:443 tieba.baidu.com
 
 # LD论坛
-104.20.16.234:80 linux.do
-104.20.16.234:80 connect.linux.do
+104.20.16.234:443 linux.do
+104.20.16.234:443 connect.linux.do
 
 # 吾爱破解blog
-124.232.185.97:80 52pojie.cn
+124.232.185.97:443 52pojie.cn
 
 # 不忘初心blog
-8.223.47.211:80 pc528.net
+8.223.47.211:443 pc528.net
 
 # winos-blog
-193.163.19.50 winos.me
+193.163.19.50:443 winos.me
 
 # 懒得勤快blog
-104.21.18.193 masuit.net
-172.67.183.74 masuit.net
-2606:4700:3033::6815:12c1 masuit.net
-2606:4700:3035::ac43:b74a masuit.net
+104.21.18.193:443 masuit.net
+172.67.183.74:443 masuit.net
+2606:4700:3033::6815:12c1:443 masuit.net
+2606:4700:3035::ac43:b74a:443 masuit.net
 
 # 爱壹帆TV
 104.18.33.60:443  yfsp.tv
@@ -28,10 +28,10 @@
 2a06:98c1:3107::6812:213c:443  yfsp.tv
 
 # 青空次元
-78.142.195.70 sorani.net
+78.142.195.70:443 sorani.net
 
 # 天龙影院
-103.14.100.17:80  82mao.com
+103.14.100.17:443  82mao.com
 
 # 爱看机器人
 104.21.7.38:443  www1.aikanbot.com
@@ -39,24 +39,24 @@
 2606:4700:3035::6815:726:443 www1.aikanbot.com
 
 # 油猴脚本
-172.67.164.117  greasyfork.org
-2606:4700:3032::ac43:a475  greasyfork.org
-172.67.174.95  sleazyfork.org
-2606:4700:3037::6815:4014  sleazyfork.org
+172.67.164.117:443  greasyfork.org
+2606:4700:3032::ac43:a475:443  greasyfork.org
+172.67.174.95:443  sleazyfork.org
+2606:4700:3037::6815:4014:443  sleazyfork.org
 
 # wallhaven高清壁纸
-172.67.74.111:80  wallhaven.cc
-2606:4700:20::ac43:4a6f:80 wallhaven.cc
+172.67.74.111::443  wallhaven.cc
+2606:4700:20::ac43:4a6f:443 wallhaven.cc
 
 # 科学上网工具箱
-172.67.175.138 nodebuf.com
-2606:4700:3034::6815:5370 nodebuf.com
+172.67.175.138:443 nodebuf.com
+2606:4700:3034::6815:5370:443 nodebuf.com
 
 # SOGO論壇
-172.66.157.56 oursogo.com
+172.66.157.56:443 oursogo.com
 
 # 伊莉社區
-23.19.72.223 eyny.com
+23.19.72.223:443 eyny.com
 
 # 雨滴社区
-172.67.142.50 bbs.rainmeter.cn
+172.67.142.50:443 bbs.rainmeter.cn
