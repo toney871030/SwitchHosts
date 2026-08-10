@@ -1,6 +1,6 @@
 # 百度
-124.237.177.164 baidu.com
-14.215.182.28 tieba.baidu.com
+124.237.177.164:80 baidu.com
+14.215.182.28:80 tieba.baidu.com
 
 # LD论坛
 104.20.16.234  linux.do
