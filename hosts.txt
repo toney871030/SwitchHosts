@@ -3,8 +3,8 @@
 14.215.182.28:80 tieba.baidu.com
 
 # LD论坛
-104.20.16.234  linux.do
-104.20.16.234  connect.linux.do
+104.20.16.234:80 linux.do
+104.20.16.234:80 connect.linux.do
 
 # 吾爱破解blog
 124.232.185.97:80 52pojie.cn
