@@ -45,8 +45,8 @@
 2606:4700:3037::6815:4014  sleazyfork.org
 
 # wallhaven高清壁纸
-172.67.74.111  wallhaven.cc
-2606:4700:20::ac43:4a6f wallhaven.cc
+172.67.74.111:80  wallhaven.cc
+2606:4700:20::ac43:4a6f:80 wallhaven.cc
 
 # 科学上网工具箱
 172.67.175.138 nodebuf.com
