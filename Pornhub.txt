@@ -1,24 +1,24 @@
 #Pornhub
 
-89.222.127.10:443 xvideos.com
+89.222.127.10 xvideos.com
 
-66.254.114.41:443 pornhub.com
+66.254.114.41 pornhub.com
 
-104.18.96.242:443 spankbang.com
+104.18.96.242 spankbang.com
 
-103.216.228.152:443 avjb.com
+103.216.228.152 avjb.com
 
-104.21.79.44:443 skbj.tv
+104.21.79.44 skbj.tv
 
-172.67.214.174:443 cherrygasp.com
+172.67.214.174 cherrygasp.com
 
-172.67.218.164:443 tangxinvlog.pro
+172.67.218.164 tangxinvlog.pro
 
-104.26.3.208:443 18j.tv
+104.26.3.208 18j.tv
 
-104.26.3.41:443 91porn.com
+104.26.3.41 91porn.com
 
-104.26.8.40:443 ppp.porn
+104.26.8.40 ppp.porn
 
-104.26.5.58:443 sehuatang.org
-2606:4700:20::681a:53a:443 sehuatang.org
+104.26.5.58 sehuatang.org
+2606:4700:20::681a:53a sehuatang.org
