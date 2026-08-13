@@ -60,3 +60,5 @@
 
 # 雨滴社区
 172.67.142.50 bbs.rainmeter.cn
+
+127.0.0.1   care-eyes.com
