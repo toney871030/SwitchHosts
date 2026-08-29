@@ -65,5 +65,8 @@
 127.0.0.1 www.registeridm.com
 127.0.0.1 tonec.com
 
+# care-eyes #
+127.0.0.1   care-eyes.com
+
 
 
