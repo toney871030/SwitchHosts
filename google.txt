@@ -1,6 +1,6 @@
 # 谷歌翻译
 
-142.250.0.206 translate.googleapis.com
-142.250.0.206 translate.google.com
-142.250.0.206 translate-pa.googleapis.com
-142.250.0.206 jnn-pa.googleapis.com
+142.250.181.131 translate.googleapis.com
+142.250.181.131 translate.google.com
+142.250.181.131 translate-pa.googleapis.com
+142.250.181.131 jnn-pa.googleapis.com
