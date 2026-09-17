@@ -68,5 +68,8 @@
 # care-eyes #
 127.0.0.1   care-eyes.com
 
+# PGware
+127.0.0.1 www.pgware.com
+
 
 
