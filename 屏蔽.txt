@@ -56,15 +56,6 @@
 0.0.0.0  xlcache.com 
 0.0.0.0  zl.xunlei.com 
 
-
-# Internet Download Manager #
-
-127.0.0.1 update.internetdownloadmanager.com
-127.0.0.1 register.internetdownloadmanager.com
-127.0.0.1 registeridm.com
-127.0.0.1 www.registeridm.com
-127.0.0.1 tonec.com
-
 # care-eyes #
 127.0.0.1   care-eyes.com
 
